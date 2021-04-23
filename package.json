@@ -1,7 +1,7 @@
 {
   "name": "code-oss-dev",
   "version": "1.56.0",
-  "distro": "46b9f1fd2806bd8f6baee078f05c7428130fff10",
+  "distro": "TylerLeonhardt/better-release-stage-distro",
   "author": {
     "name": "Microsoft Corporation"
   },
